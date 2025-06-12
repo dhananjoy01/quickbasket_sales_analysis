@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="quickbasket_logo.png" alt="QuickBasket Logo" width="160"/>
+</p>
+
 # 🛒 QuickBasket Sales Analysis (SQL Project)
 
 ## 📊 Project Overview
