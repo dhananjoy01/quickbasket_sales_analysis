@@ -292,7 +292,7 @@ This is part of my SQL portfolio to showcase practical skills in data analytics.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/najirr) – Let’s connect professionally
 -	 [Gmail](dhananjoychandro01@gmail.com) – Let’s connect professionally
--    [Portfolio] (https://www.datascienceportfol.io/dhananjoychandro01/)
+-    [Portfolio] (https://www.datascienceportfol.io/dhananjoychandro01)
 -    [Kaggle]    (https://www.kaggle.com/dhanamjoy01/)
 
 ---
